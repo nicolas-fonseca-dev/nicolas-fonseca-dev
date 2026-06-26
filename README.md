@@ -1,6 +1,6 @@
 # Nicolas Fonseca
 
-Estudante de Ciência da Computação e atuando com suporte a sistemas ERP
+Estudante de Ciência da Computação e atuando como suporte a sistemas ERP
 
 Gosto de construir a parte que roda por trás da tela. Meu histórico vem do suporte técnico "raiz" — da infraestrutura de galpão logistico à sustentação de sistemas, o que me deu uma noção muito prática de **como softwares quebram no mundo real** antes de eu começar a escrever os meus
 
