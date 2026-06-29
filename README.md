@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação e atuando como suporte a sistemas ERP 
 
-Gosto de construir a parte que roda por trás da tela. Meu histórico vem do suporte técnico "raiz" da infraestrutura de galpão logistico à sustentação de sistemas, o que me deu uma noção muito prática de **como softwares quebram no mundo real** enquanto es os meus
+Gosto de construir a parte que roda por trás da tela. Meu histórico vem do suporte técnico "raiz" da infraestrutura de galpão logistico à sustentação de sistemas, o que me deu uma noção muito prática de **como softwares quebram no mundo real** enquanto programo os meus
 
 ### O que eu uso no dia a dia
 
